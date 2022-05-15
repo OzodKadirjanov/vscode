@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.sky{
+    height: 600px;
+    width: 1100px;
+    margin-top: 100px;
+    margin-left: 150px;
+}
+.back{
+    background-image: url('https://t4.ftcdn.net/jpg/03/22/39/71/360_F_322397105_XZ25Eb97uTSATzR0eao1VJWYgEJyqT6D.jpg');
+    background-position: center top;
+    background-size: 1000px auto;
+    padding: 65px 85px 136px 85px;
+    width: 1250px;
+    height: 700px;
+    margin-left: 80px;
+    margin-top: -660px;
+    border-radius: 50px;
+}
+.weather{
+    color: white;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.persent{
+    color: white;
+    font-size: 70px;
+    margin-top: 405px;
+    margin-left: 50px;
+}
+.lon{
+    color: white;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: -75px;
+    margin-left: 200px;
+}
+.week{
+    color: white;
+    margin-left: 200px;
+}
+.sun{
+    color: white;
+    margin-left: 400px;
+    margin-top: -15px;    
+}
+.trans{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 10%;
+    height: 40%;
+    padding: 300px 250px;
+    margin-top: -558px;
+    margin-left: 585px;
+    font-size: 7vw;
+    line-height: 1;
+    font-weight: bold;
+    text-align: center;
+    color: none;
+    background: rgba(0, 0, 0, 0.333);
+    backdrop-filter: blur(1px);
+}
+.search{
+    width: 50px;
+    height: 50px;
+    margin-top: -8px;
+    margin-left: 1035px;
+}
+.another{
+    display: flex;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.473);
+    margin-top: -250px;
+    margin-right: 300px;
+}
+.br{
+    color: rgba(255, 255, 255, 0.205);
+    font-size: 5px;
+    width: 100px;
+}
+.shahar{
+    list-style: none;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.473);
+}
+.b{
+    margin-top: 30px;
+    margin-right: 323px;
+}
+.m{
+    margin-top: 30px;
+    margin-right: 323px;
+}
+.ny{
+    margin-top: 30px;
+    margin-right: 340px;
+}
+.c{
+    margin-top: 30px;
+    margin-right: 337px;
+}
+.hr{
+    margin-top: 30px;
+    color: rgba(255, 255, 255, 0.205);
+    font-size: 5px;
+    width: 100px;
+}
